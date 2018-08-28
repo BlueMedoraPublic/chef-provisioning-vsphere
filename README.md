@@ -1,3 +1,6 @@
+# Forked
+We have forked this project to preserve its current state. It works for what we need. Please see the orgional repo at: https://github.com/chef-partners/chef-provisioning-vsphere
+
 # chef-provisioning-vsphere
 
 [![Gem Version](https://img.shields.io/gem/v/chef-provisioning-vsphere.svg)][gem]
